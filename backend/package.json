@@ -1,12 +1,11 @@
 {
   "name": "cloudflare_backend",
   "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js"
   },
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/VenomBLR/cloudflare1.git"
